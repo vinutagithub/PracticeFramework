@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ebf85a6-5760-4a4a-8b3e-96ebdebf9db4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1md5efhXs88BVAtFA4aD36iPzSo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/Drivers" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vinuta\IdeaProjects\PracticeFrameWork\PracticeFrameWork\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Vinuta\IdeaProjects\PracticeFrameWork\PracticeFrameWork\src\main\resources\Drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Vinuta/IdeaProjects/PracticeFrameWork/PracticeFrameWork/src/main/resources/testng.xml">
+    <configuration name="C:/Users/Vinuta/IdeaProjects/PracticeFrameWork/PracticeFrameWork/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeFrameWork" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest.tc_validlogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PracticeFrameWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wbl.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wbl.Test" />
+      <option name="MAIN_CLASS_NAME" value="org.wbl.Test.LoginTest" />
+      <option name="METHOD_NAME" value="tc_validlogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Vinuta/IdeaProjects/PracticeFrameWork/PracticeFrameWork/src/main/resources/testng.xml" />
+        <item itemvalue="TestNG.LoginTest.tc_validlogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ebf85a6-5760-4a4a-8b3e-96ebdebf9db4" name="Default Changelist" comment="" />
+      <created>1609810723923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609810723923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609826855281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609826855281" />
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom" timestamp="1609836227178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609836227178" />
+    <state width="1877" height="288" key="GridCell.Tab.0.center" timestamp="1609836227178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609836227178" />
+    <state width="1877" height="288" key="GridCell.Tab.0.left" timestamp="1609836227178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609836227178" />
+    <state width="1877" height="288" key="GridCell.Tab.0.right" timestamp="1609836227178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="288" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609836227178" />
+  </component>
+</project>
